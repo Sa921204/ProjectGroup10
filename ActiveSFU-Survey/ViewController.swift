@@ -11,7 +11,7 @@ import UIKit
 class QuestionController: UITableViewController {
 
     //this can really be any value or name, it's just to assign a unique id to the tableview object later
-    let cellID = "cellID"
+    let cellID = "cmpt276"
     
     override func viewDidLoad() {
         super.viewDidLoad()
